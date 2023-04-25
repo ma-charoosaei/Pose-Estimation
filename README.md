@@ -9,11 +9,3 @@ The included codes, which is in form of a IPython notebook, gets the video and p
 Here are the result of the video with the models.
 
 ![](result/short_output.gif)
-
-# Colab Notebook
-The code needed to preprocess the data and train the model is available in the following notebook.
-Set the runtime to GPU and run everything.
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ma-charoosaei/Pose-Estimation/src/MediaPipe_Pose.ipynb)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ma-charoosaei/Pose-Estimation/src/OpenPose.ipynb)
